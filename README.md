@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👋 Hi! I'm a software developer with experience in Python, JavaScript, PostgreSQL, Django, Node.js, and Flask. I’m passionate about building efficient solutions and collaborating with teams to achieve great results.<br><br>📩 Reach me at juanpalaciosc20@gmail.com. Always open to new opportunities and collaborations! 🚀
+<br>👋 Hi! I'm a software developer with experience in Django, React and Angular and SpringBoot knowledge. I’m passionate about building efficient solutions and collaborating with teams to achieve great results.<br><br>📩 Reach me at juanpalaciosc20@gmail.com. Always open to new opportunities and collaborations! 🚀
 
 
 ## 🌐 Socials:
